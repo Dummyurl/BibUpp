@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bib Upp</string>
+
+   <!-- <string name="facebook_app_id">713390518822440</string>-->
+
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-3769818332892229/5005616194</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="action_edit_profile">Bewerk profiel</string>
+    <string name="action_edit_profile_photo">Bewerk profielfoto</string>
+    <string name="action_edit_profile_cover">Bewerken coverfoto</string>
+    <string name="action_account_activate">Activeer account</string>
+    <string name="action_login_with_facebook">Inloggen met Facebook</string>
+    <string name="action_signup_with_facebook">Aanmelden met Facebook</string>
+    <string name="action_regular_signup">Terug naar de reguliere inschrijfformulier</string>
+    <string name="action_profile">Profiel</string>
+    <string name="action_go_to_friends">Ga naar de sectie vrienden</string>
+    <string name="action_questions">vragen</string>
+    <string name="action_block">Blok</string>
+    <string name="action_report">Rapport</string>
+    <string name="action_save">Save</string>
+    <string name="action_retry">opnieuw proberen</string>
+    <string name="action_reply">Antwoord</string>
+    <string name="action_answer">Antwoord</string>
+    <string name="action_ask">Vragen</string>
+    <string name="action_start">Begin!</string>
+    <string name="action_update">Bijwerken</string>
+    <string name="action_continue">voortzetten</string>
+    <string name="action_refresh">verversen</string>
+    <string name="action_profile_report">Meld misbruik</string>
+    <string name="action_find_friends">Zoek vrienden</string>
+    <string name="action_unfollow">unfollow</string>
+    <string name="action_follow">Volgen</string>
+    <string name="action_copy_link">Kopieer link</string>
+    <string name="action_open_link">Open in een browser</string>
+    <string name="action_cancel">Annuleer</string>
+    <string name="action_ok">OK</string>
+    <string name="action_back">Terug</string>
+    <string name="action_next">volgende</string>
+    <string name="action_remove">Verwijderen</string>
+    <string name="action_delete">Verwijder</string>
+    <string name="action_logout">Uitloggen</string>
+    <string name="action_about">Over</string>
+    <string name="action_search">Zoeken</string>
+    <string name="action_choose_photo">Kies uit galerie</string>
+    <string name="action_forgot_password">Wachtwoord vergeten?</string>
+    <string name="action_random_question">Krijg een willekeurige vraag</string>
+    <string name="action_create_info">Maak Info en Menu</string>
+    <string name="action_add_moreoption">Voeg meer optie</string>
+    <string name="action_info_submit">voorleggen</string>
+    <string name="action_info_hint">Vul uw info</string>
+    <string name="title_activity_app">Bib Upp</string>
+    <string name="title_activity_stream">Overzicht</string>
+    <string name="title_activity_login">Log in</string>
+    <string name="title_activity_signup">Aanmelden</string>
+    <string name="title_activity_profile">Profiel</string>
+    <string name="title_activity_settings">Instellingen</string>
+    <string name="title_activity_search">Zoeken</string>
+    <string name="title_activity_profile_edit">Bewerk profiel</string>
+    <string name="title_activity_friends">Vrienden</string>
+    <string name="title_activity_questions">vragen</string>
+    <string name="title_activity_reply">Antwoord</string>
+    <string name="title_activity_ask">Vragen</string>
+    <string name="title_activity_photo_view">Foto</string>
+    <string name="title_activity_web_view">Web</string>
+    <string name="title_activity_welcome">Welkom</string>
+    <string name="title_activity_change_password">Verander wachtwoord</string>
+    <string name="title_activity_feed">RSS Feed </string>
+    <string name="title_activity_notify_likes">Meldingen</string>
+    <string name="title_activity_notify_answers">Antwoord</string>
+    <string name="title_activity_answer">Antwoord</string>
+    <string name="title_activity_password_recovery">Wachtwoord herstel</string>
+    <string name="lang_button_login">Log in</string>
+    <string name="lang_button_signup">Aanmelden</string>
+    <string name="lang_button_profile_ask">Stel me een vraag</string>
+    <string name="lang_button_profile_aboutme">Over mij</string>
+    <string name="lang_button_profile_quiz">Info en Menu</string>
+    <string name="lang_button_profile_quizstatus">Info en Menu Status</string>
+    <string name="lang_button_back">Terug</string>
+    <string name="lang_button_next">volgende</string>
+    <string name="lang_button_ok">OK</string>
+
+    <string name="msg_loading">Even geduld aub...</string>
+    <string name="msg_network_error">Controleer uw internetverbinding</string>
+    <string name="msg_enter_question">Voer de vraag</string>
+    <string name="msg_enter_answer">Geef het antwoord</string>
+    <string name="msg_question_has_been_send">Je vraag is verzonden.</string>
+    <string name="msg_answer_has_been_published">Uw antwoord is gepubliceerd.</string>
+    <string name="msg_password_changed">wachtwoord succesvol veranderd</string>
+    <string name="msg_password_reset_link_sent">Een bericht met de link om uw wachtwoord opnieuw in te stellen is verzonden naar uw e-mail.</string>
+    <string name="msg_no_such_user_in_bd">Gebruiker onbekend in database</string>
+
+    <string name="gcm_question">Je hebt nieuwe vraag gekregen.</string>
+    <string name="gcm_follower">Je hebt nieuwe volger.</string>
+    <string name="gcm_answer">Je hebt nieuw antwoord ontvangen.</string>
+    <string name="gcm_comment">Je hebt nieuwe reactie ontvangen.</string>
+    <string name="gcm_like">Je hebt nieuwe ontvangen als.</string>
+
+    <string name="settings_file">account</string>
+
+    <string name="settings_account_id">account_id</string>
+    <string name="settings_account_username">account_username</string>
+    <string name="settings_account_access_token">toegangstoken</string>
+
+    <string name="placeholder_username">Gebruikersnaam</string>
+    <string name="placeholder_fullname">Voor-en achternaam</string>
+    <string name="placeholder_password">Wachtwoord</string>
+    <string name="placeholder_email">E-mail</string>
+    <string name="placeholder_address">Adres</string>
+    <string name="placeholder_city">stad</string>
+    <string name="placeholder_state">Staat</string>
+    <string name="placeholder_country">land</string>
+    <string name="placeholder_zipcode">Postcode</string>
+    <string name="placeholder_search">Zoek mensen</string>
+    <string name="placeholder_answer">Wat is je antwoord?</string>
+    <string name="placeholder_ask">Wat is je vraag?</string>
+    <string name="placeholder_current_password">Huidig wachtwoord</string>
+    <string name="placeholder_new_password">Nieuw paswoord</string>
+
+    <string name="error_internet_connection">Geen internet verbinding</string>
+    <string name="error_data_loading">Bij het laden van de gegevens fout is opgetreden. Controleer uw netwerkverbinding.</string>
+    <string name="error_field_empty">Verplichte velden zijn leeg</string>
+    <string name="error_wrong_format">Verkeerd formaat</string>
+    <string name="error_small_password">Minimaal 6 tekens</string>
+    <string name="error_small_username">Minimaal 5 tekens</string>
+    <string name="error_small_fullname">Minimaal 2 tekens</string>
+    <string name="error_signin">foute gebruikersnaam of wachtwoord</string>
+    <string name="error_login_taken">Gebruikersnaam is al in gebruik</string>
+    <string name="error_email_taken">Gebruiker met deze e-mail is al geregistreerd</string>
+    <string name="error_password">Ongeldig wachtwoord.</string>
+    <string name="error_email">E-mail ongeldig.</string>
+    <string name="error_answer_not_exists">Antwoord niet bestaan.</string>
+
+    <string name="label_authorization_via_facebook">Autorisatie via Facebook.</string>
+    <string name="label_profile_reported">PROFIEL gemeld.</string>
+    <string name="label_profile_link_copied">Profiel koppeling gekopieerd naar het klembord.</string>
+    <string name="label_followers_count">volgers</string>
+    <string name="label_answers_count">antwoorden</string>
+    <string name="label_likes_count">leuke</string>
+    <string name="label_search_results">Zoekresultaten</string>
+    <string name="label_search_start_screen_msg">In de huidige versie van de applicatie, wordt het zoeken uitgevoerd door de gebruiker login.</string>
+    <string name="label_search_no_results">Er werd niets gevonden</string>
+    <string name="label_share_profile">Deel je profiel met vrienden om meer vragen te krijgen</string>
+    <string name="label_friends_start_screen_msg">Het\'s leuker met vrienden!</string>
+    <string name="label_hide_my_name">Verberg mijn naam</string>
+    <string name="label_remove_picture">afbeelding verwijderen</string>
+    <string name="label_list_is_empty">Lijst is leeg</string>
+    <string name="label_or">Of</string>
+    <string name="label_user_havent_answers">Deze gebruiker hasn \'t antwoordde nog geen vragen.</string>
+    <string name="label_user_havent_quizanswers">Gebruikers die haven\'t antwoordde nog deze info.</string>
+    <!--<string name="label_you_havent_answers">U haven \'t antwoordde nog geen vragen.</string>-->
+    <string name="label_you_havent_answers">U hebt nog geen vraag beantwoord.</string>
+    <string name="label_profile_disabled">Deze gebruiker heeft hun account gedeactiveerd.</string>
+    <string name="label_profile_blocked">Dit account is geblokkeerd door een moderator.</string>
+    <string name="label_likes_answer">houdt uw antwoord</string>
+    <string name="label_answered_question">uw vraag beantwoord</string>
+
+    <string name="label_profile_report_0">Spam</string>
+    <string name="label_profile_report_1">Aanzetten tot haat of geweld</string>
+    <string name="label_profile_report_2">Naaktheid of pornografie</string>
+    <string name="label_profile_report_3">Nep profiel</string>
+
+    <string name="signup_label_1">Door te klikken op Registreren, gaat u akkoord met onze</string>
+    <string name="signup_label_terms_and_policies">Algemene Voorwaarden</string>
+
+    <string name="account_disabled">Account uitgeschakeld.</string>
+    <string name="account_blocked">Dit account is geblokkeerd door een moderator.</string>
+
+    <string name="settings_header_general">Algemeen</string>
+    <string name="settings_header_account">Jouw rekening</string>
+    <string name="settings_header_others">Anderen</string>
+    <string name="settings_header_about">Over</string>
+
+    <string name="settings_version">Versie</string>
+    <string name="settings_logout">Uitloggen</string>
+    <string name="settings_copyright_info">Copyright info</string>
+    <string name="settings_contact_us">Neem contact met ons op</string>
+    <string name="settings_change_language">Taal wijzigen</string>
+    <string name="settings_allow_anonymous_questions">Sta anonieme vragen toe</string>
+    <string name="settings_account_deactivate">Account deactiveren</string>
+    <string name="settings_change_password">Verander wachtwoord</string>
+     <string name="settings_thanks">Dankwoord</string>
+    <string name="settings_thanks_french">Met dank aan verandering</string>
+    <string name="settings_terms">Gebruiksvoorwaarden</string>
+
+    <string name="dialog_select_image">Selecteer een afbeelding</string>
+
+    <string name="drawer_profile">Profiel</string>
+    <string name="drawer_questions">vragen</string>
+    <string name="drawer_friends">Vrienden</string>
+   <!-- <string name="drawer_feed">RSS Feed </string>
+    <string name="drawer_stream">Stream</string>-->
+    <string name="drawer_answers">Antwoorden</string>
+    <string name="drawer_notifications">Meldingen</string>
+    <string name="drawer_search">Zoeken</string>
+    <string name="drawer_settings">Instellingen</string>
+
+    <string name="page_1">Profiel</string>
+    <string name="page_2">vragen</string>
+    <string name="page_3">Vrienden</string>
+    <string name="page_4">Meldingen</string>
+    <string name="page_5">Antwoorden</string>
+    <string name="page_6">Zoeken</string>
+    <string name="page_7">Instellingen</string>
+    <string name="page_8">locatie zoeken</string>
+    <string name="page_9">Info Details</string>
+    <string name="page_10">Info en Menu</string>
+    <string name="page_11">Info en Menu Status</string>
+    <string name="hello_world">Hallo Wereld!</string>
+
+    <string-array name="navDrawerItems">
+        <item>Profiel</item>
+        <item>vragen</item>
+        <item>Vrienden</item>
+       <!-- <item>RSS Feed </item>
+        <item>Stream</item>-->
+        <item>Meldingen</item>
+        <item>Antwoorden</item>
+        <item>Zoeken</item>
+        <item>Instellingen</item>
+        <item>locatie zoeken</item>
+        <item>Info en Menu</item>
+    </string-array>
+
+    <string-array name="navDrawerIcons">
+        <item>@drawable/ic_action_profile</item>
+        <item>@drawable/ic_action_questions</item>
+        <item>@drawable/ic_action_friends</item>
+        <!--<item>@drawable/ic_action_feed</item>
+        <item>@drawable/ic_action_stream</item>-->
+        <item>@drawable/ic_action_notify_likes</item>
+        <item>@drawable/ic_action_notify_answers</item>
+        <item>@drawable/ic_action_search</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_action_search</item>
+        <item>@drawable/quiz</item>
+    </string-array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Dichtbij</string>
+
+    <string name="label_empty_list">Lijst is leeg.</string>
+    <string name="msg_loading_2">Laden. Even geduld aub&#8230;</string>
+
+    <string name="title_activity_hashtags">Hashtags</string>
+
+</resources>

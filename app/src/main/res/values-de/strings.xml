@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bib Upp</string>
+
+   <!-- <string name="facebook_app_id">713390518822440</string>-->
+    <!--<string name="facebook_app_id">1419328958079600</string>-->
+    <!--<string name="googleapi_key">AIzaSyAaoPVM8BjDYtoXEw1X4Sq8M-jWB93a_-I</string>-->
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-3769818332892229/5005616194</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_edit_profile">Profil bearbeiten</string>
+    <string name="action_edit_profile_photo">Profilfoto bearbeiten</string>
+    <string name="action_edit_profile_cover">Bearbeiten Deckblatt</string>
+    <string name="action_account_activate">Konto aktivieren</string>
+    <string name="action_login_with_facebook">Mit Facebook einloggen</string>
+    <string name="action_signup_with_facebook">Anmelden mit Facebook</string>
+    <string name="action_regular_signup">Zurück zum regulären Anmeldeformular</string>
+    <string name="action_profile">Profil</string>
+    <string name="action_go_to_friends">Gehen Sie zu den Freunden Abschnitt</string>
+    <string name="action_questions">Fragen</string>
+    <string name="action_block">Block</string>
+    <string name="action_report">Bericht</string>
+    <string name="action_save">sparen</string>
+    <string name="action_retry">Wiederholen</string>
+    <string name="action_reply">Antworten</string>
+    <string name="action_answer">Antworten</string>
+    <string name="action_ask">Fragen</string>
+    <string name="action_start">Anfang!</string>
+    <string name="action_update">Aktualisieren</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_profile_report">Missbrauch melden</string>
+    <string name="action_find_friends">Freunde finden</string>
+    <string name="action_unfollow">Unfollow</string>
+    <string name="action_follow">Folgen</string>
+    <string name="action_copy_link">Link kopieren</string>
+    <string name="action_open_link">In einem Browser öffnen</string>
+    <string name="action_cancel">Stornieren</string>
+    <string name="action_ok">OK</string>
+    <string name="action_back">Zurück</string>
+    <string name="action_next">Nächster</string>
+    <string name="action_remove">Entfernen</string>
+    <string name="action_delete">Löschen</string>
+    <string name="action_logout">Ausloggen</string>
+    <string name="action_about">Etwa</string>
+    <string name="action_search">Suche</string>
+    <string name="action_choose_photo">Wählen Sie aus der Galerie</string>
+    <string name="action_forgot_password">Passwort vergessen?</string>
+    <string name="action_random_question">Holen Sie sich zufällige Frage</string>
+    <string name="action_create_info">Erstellen Sie Info und Menü</string>
+    <string name="action_add_moreoption">Weitere Option hinzufügen</string>
+    <string name="action_info_submit">einreichen</string>
+    <string name="action_info_hint">Geben Sie Ihre info ein</string>
+    <string name="title_activity_app">Bib Upp</string>
+    <string name="title_activity_stream">Strom</string>
+    <string name="title_activity_login">Einloggen</string>
+    <string name="title_activity_signup">Anmelden</string>
+    <string name="title_activity_profile">Profil</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="title_activity_search">Suche</string>
+    <string name="title_activity_profile_edit">Profil bearbeiten</string>
+    <string name="title_activity_friends">Freunde</string>
+    <string name="title_activity_questions">Fragen</string>
+    <string name="title_activity_reply">Antworten</string>
+    <string name="title_activity_ask">Fragen</string>
+    <string name="title_activity_photo_view">Foto</string>
+    <string name="title_activity_web_view">Web</string>
+    <string name="title_activity_welcome">Herzlich willkommen</string>
+    <string name="title_activity_change_password">Passwort ändern</string>
+    <string name="title_activity_feed">Füttern</string>
+    <string name="title_activity_notify_likes">Benachrichtigungen</string>
+    <string name="title_activity_notify_answers">Antworten</string>
+    <string name="title_activity_answer">Antworten</string>
+    <string name="title_activity_password_recovery">Passwort-Wiederherstellung</string>
+    <string name="lang_button_login">Einloggen</string>
+    <string name="lang_button_signup">Anmelden</string>
+    <string name="lang_button_profile_ask">Fragen Sie mich etwas</string>
+    <string name="lang_button_profile_aboutme">About me</string>
+    <string name="lang_button_profile_quiz">Info und Menü</string>
+    <string name="lang_button_profile_quizstatus">Info und Menü Status</string>
+    <string name="lang_button_back">Zurück</string>
+    <string name="lang_button_next">Nächster</string>
+    <string name="lang_button_ok">OK</string>
+
+    <string name="msg_loading">Warten Sie mal...</string>
+    <string name="msg_network_error">Bitte überprüfe deine Internetverbindung</string>
+    <string name="msg_enter_question">Geben Sie die Frage ein</string>
+    <string name="msg_enter_answer">Geben Sie die Antwort ein</string>
+    <string name="msg_question_has_been_send">Ihre Frage wurde gesendet.</string>
+    <string name="msg_answer_has_been_published">Ihre Antwort wurde veröffentlicht.</string>
+    <string name="msg_password_changed">Passwort erfolgreich geändert</string>
+    <string name="msg_password_reset_link_sent">Eine Nachricht mit Link zum Zurücksetzen Ihres Passworts wurde an Ihre E-Mail gesendet.</string>
+    <string name="msg_no_such_user_in_bd">Kein solcher Benutzer in der Datenbank</string>
+
+    <string name="gcm_question">Sie haben eine neue Frage erhalten.</string>
+    <string name="gcm_follower">Sie haben neue Anhänger.</string>
+    <string name="gcm_answer">Sie haben eine neue Antwort erhalten.</string>
+    <string name="gcm_comment">Sie haben einen neuen Kommentar erhalten.</string>
+    <string name="gcm_like">Sie haben neue wie erhalten.</string>
+
+    <string name="settings_file">Konto</string>
+
+    <string name="settings_account_id">account_id</string>
+    <string name="settings_account_username">account_username</string>
+    <string name="settings_account_access_token">Zugangstoken</string>
+
+    <string name="placeholder_username">Benutzername</string>
+    <string name="placeholder_fullname">Vollständiger Name</string>
+    <string name="placeholder_password">Passwort</string>
+    <string name="placeholder_email">Email</string>
+    <string name="placeholder_address">Adresse</string>
+    <string name="placeholder_city">Stadt</string>
+    <string name="placeholder_state">Zustand</string>
+    <string name="placeholder_country">Land</string>
+    <string name="placeholder_zipcode">Postleitzahl</string>
+    <string name="placeholder_search">Suche Personen</string>
+    <string name="placeholder_answer">Wie ist deine Antwort?</string>
+    <string name="placeholder_ask">Was ist deine Frage?</string>
+    <string name="placeholder_current_password">Aktuelles Passwort</string>
+    <string name="placeholder_new_password">Neues Kennwort</string>
+
+    <string name="error_internet_connection">Keine Internetverbindung</string>
+    <string name="error_data_loading">Beim Laden der Daten ist ein Fehler aufgetreten. Überprüfen Sie Ihre Netzwerkverbindung.</string>
+    <string name="error_field_empty">Erforderliche Felder sind leer</string>
+    <string name="error_wrong_format">Falsches Format</string>
+    <string name="error_small_password">Mindestens 6 Zeichen</string>
+    <string name="error_small_username">Mindestens 5 Zeichen</string>
+    <string name="error_small_fullname">Mindestens 2 Zeichen</string>
+    <string name="error_signin">Falscher Benutzername oder Passwort</string>
+    <string name="error_login_taken">Benutzername ist bereits vergeben</string>
+    <string name="error_email_taken">Benutzer mit dieser Mail ist bereits registriert</string>
+    <string name="error_password">Ungültiges Passwort.</string>
+    <string name="error_email">E-Mail ungültig.</string>
+    <string name="error_answer_not_exists">Antwort nicht vorhanden.</string>
+
+    <string name="label_authorization_via_facebook">Autorisierung via Facebook.</string>
+    <string name="label_profile_reported">Profil gemeldet.</string>
+    <string name="label_profile_link_copied">Profilverknüpfung in Zwischenablage kopiert.</string>
+    <string name="label_followers_count">Nachfolger</string>
+    <string name="label_answers_count">Antworten</string>
+    <string name="label_likes_count">Gefällt mir</string>
+    <string name="label_search_results">Suchergebnisse</string>
+    <string name="label_search_start_screen_msg">In der aktuellen Version der Anwendung wird die Suche durch Benutzeranmeldung durchgeführt.</string>
+    <string name="label_search_no_results">Nichts wurde gefunden</string>
+    <string name="label_share_profile">Teilen Sie Ihr Profil mit Freunden, um weitere Fragen zu erhalten</string>
+    <string name="label_friends_start_screen_msg">Es macht Spaß mit Freunden!</string>
+    <string name="label_hide_my_name">Versteck meinen Namen</string>
+    <string name="label_remove_picture">Bild entfernen</string>
+    <string name="label_list_is_empty">Liste ist leer</string>
+    <string name="label_or">Oder</string>
+    <string name="label_user_havent_answers">Dieser Benutzer hat noch keine Fragen beantwortet..</string>
+    <string name="label_user_havent_quizanswers">Jeder Nutzer hat dieses info noch nicht beantwortet.</string>
+    <string name="label_you_havent_answers">Sie haben noch keine Fragen beantwortet.</string>
+    <string name="label_profile_disabled">Dieser Benutzer hat sein Konto deaktiviert.</string>
+    <string name="label_profile_blocked">Dieses Konto wird von einem Moderator blockiert.</string>
+    <string name="label_likes_answer">Mag Ihre Antwort</string>
+    <string name="label_answered_question">Ihre Frage beantwortet</string>
+
+    <string name="label_profile_report_0">Spam</string>
+    <string name="label_profile_report_1">Hassrede oder Gewalt</string>
+    <string name="label_profile_report_2">Nacktheit oder Pornographie</string>
+    <string name="label_profile_report_3">Gefälschtes Profil</string>
+
+    <string name="signup_label_1">Indem Sie auf Anmelden klicken, stimmen Sie zu unserer</string>
+    <string name="signup_label_terms_and_policies">Allgemeine Geschäftsbedingungen</string>
+
+    <string name="account_disabled">Konto deaktiviert.</string>
+    <string name="account_blocked">Dieses Konto wird von einem Moderator blockiert.</string>
+
+    <string name="settings_header_general">General</string>
+    <string name="settings_header_account">Ihr Konto</string>
+    <string name="settings_header_others">Andere</string>
+    <string name="settings_header_about">Etwa</string>
+
+    <string name="settings_version">Version</string>
+    <string name="settings_logout">Ausloggen</string>
+    <string name="settings_copyright_info">Urheberrecht</string>
+    <string name="settings_contact_us">Kontaktiere uns</string>
+    <string name="settings_change_language">Change Language</string>
+    <string name="settings_allow_anonymous_questions">anonyme Fragen zulassen</string>
+    <string name="settings_account_deactivate">Benutzerkonto deaktivieren</string>
+    <string name="settings_change_password">Passwort ändern</string>
+    <string name="settings_thanks">Danksagungen</string>
+    <string name="settings_thanks_french">Danksagungen ändern</string>
+    <string name="settings_terms">Nutzungsbedingungen</string>
+
+    <string name="dialog_select_image">Wählen Sie ein Bild aus</string>
+
+    <string name="drawer_profile">Profil</string>
+    <string name="drawer_questions">Fragen</string>
+    <string name="drawer_friends">Freunde</string>
+   <!-- <string name="drawer_feed">Füttern</string>
+    <string name="drawer_stream">Strom</string>-->
+    <string name="drawer_answers">Antworten</string>
+    <string name="drawer_notifications">Benachrichtigungen</string>
+    <string name="drawer_search">Suche</string>
+    <string name="drawer_settings">Einstellungen</string>
+
+    <string name="page_1">Profil</string>
+    <string name="page_2">Fragen</string>
+    <string name="page_3">Freunde</string>
+    <string name="page_4">Benachrichtigungen</string>
+    <string name="page_5">Antworten</string>
+    <string name="page_6">Suche</string>
+    <string name="page_7">Einstellungen</string>
+    <string name="page_8">place Suche</string>
+    <string name="page_9">Info Details</string>
+    <string name="page_10">Info und Menü</string>
+    <string name="page_11">Info und Menü Status</string>
+    <string name="hello_world">Hallo Welt!</string>
+
+    <string-array name="navDrawerItems">
+        <item>Profil</item>
+        <item>Fragen</item>
+        <item>Freunde</item>
+        <!-- <item>Feed</item>
+        <item>Stream</item>-->
+        <item>Benachrichtigungen</item>
+        <item>Antworten</item>
+        <item>Suche</item>
+        <item>Einstellungen</item>
+        <item>place Suche</item>
+        <item>Info und Menü</item>
+    </string-array>
+
+    <string-array name="navDrawerIcons">
+        <item>@drawable/ic_action_profile</item>
+        <item>@drawable/ic_action_questions</item>
+        <item>@drawable/ic_action_friends</item>
+        <!-- <item>@drawable/ic_action_feed</item>
+        <item>@drawable/ic_action_stream</item>-->
+        <item>@drawable/ic_action_notify_likes</item>
+        <item>@drawable/ic_action_notify_answers</item>
+        <item>@drawable/ic_action_search</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_action_search</item>
+        <item>@drawable/quiz</item>
+    </string-array>
+
+    <string name="drawer_open">Öffnen</string>
+    <string name="drawer_close">Schließen</string>
+
+    <string name="label_empty_list">Liste ist leer.</string>
+    <string name="msg_loading_2">Laden. Warten Sie mal&#8230;</string>
+
+    <string name="title_activity_hashtags">Hashtags</string>
+
+</resources>

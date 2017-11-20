@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487991935231",
+    "firebase_url": "https://bibupp-71d78.firebaseio.com",
+    "project_id": "bibupp-71d78",
+    "storage_bucket": "bibupp-71d78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487991935231:android:a3d06982a11a5aed",
+        "android_client_info": {
+          "package_name": "AndroidManifest.xml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487991935231-0s8mt7iaopnvr9fua6krekpl2dr5lcib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "AndroidManifest.xml",
+            "certificate_hash": "b0d34903701ddb08b93f7560b48fdd328e60c50b"
+          }
+        },
+        {
+          "client_id": "487991935231-rqn6oqlpahqjb7jvn7fp6i423jrd9e4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJAX9vKzjvIyeYSJpzJ_0jv8XNyzfv7Ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487991935231-rqn6oqlpahqjb7jvn7fp6i423jrd9e4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
